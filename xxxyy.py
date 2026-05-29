@@ -39,3 +39,6 @@ for i in range(10):
     time.sleep(0.5)
 
 print("Logging completed.")
+
+print("program completed")
+print("program completed")
